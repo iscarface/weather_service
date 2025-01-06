@@ -57,6 +57,11 @@ To run the tests inside the Docker container, use the following command:
 docker exec -it weather_service pytest tests
 ```
 
+
+## **Perfomance report**
+
+![total_requests_per_second_1736184459 99](https://github.com/user-attachments/assets/5c62705d-7dd1-4600-9257-c0369c8bc8c2)
+
 ---
 
 ## **Notes**
