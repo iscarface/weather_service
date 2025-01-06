@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs and debug files
+*.log
+*.txt
+
+# Cache files
+*.cache
+*.pkl
+*.db
+.cache/
+*.sqlite3
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+
+# AWS credentials and configuration
+.aws/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Testing
+.pytest_cache/
+.tox/
+coverage/
+*.cover
+nosetests.xml
+*.xml
+htmlcov/
+coverage.xml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# S3 (MinIO) data
+minio_data/
