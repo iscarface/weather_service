@@ -1,0 +1,12 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+boto3==1.35.92
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.10.4
+pydantic-settings==2.7.1
+pydantic_core==2.27.2
+httpx==0.28.1
+moto==5.0.26
+pytest==8.3.4
+locust==2.32.5
